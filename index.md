@@ -2,9 +2,23 @@
 layout: default
 title: About
 ---
-<div>
-  <h1>Welcome to the DGfS-CL Fall School 2019</h1>
-  <p>
-    More description to come ...
-  </p>
-</div>
+
+# Welcome to the DGfS-CL Fall School 2019
+
+The
+[Computational Linguistics Fall School](https://dgfs.de/en/cl/fall-schools.html)
+was established in 2001 by the
+[Special Interest Group on Computational Linguistics](https://dgfs.de/en/cl/)
+of the
+[German Linguistic Society (Deutsche Gesellschaft für Sprachwissenschaft, DGfS)](https://dgfs.de/en/).
+
+Since then, the fall school is a biennial event for students who wish
+to broaden their knowledge of techniques and methods used in natural
+language processing, including computational linguistics fields not
+traditionally taught in standard degree programs.
+
+This is the 10th Fall School offering four courses, each of which
+consists of ten 90-minutes lectures. All courses will be taught in
+English. Students can receive credits for the courses at their home
+university under the European Credit Transfer System (ECTS), each
+course being worth 4 ECTS credits.
