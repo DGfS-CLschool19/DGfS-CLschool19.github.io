@@ -10,7 +10,7 @@
 |-
 | | **Second week**
 | 9:00-12:30 | Syntax (Meagan Fowlie) 
-| 14:00-17:30 | Computational Ethics in NLP (Thomas Arnold) 
+| 14:00-17:30 | Computer Ethics in NLP (Thomas Arnold) 
 
 ## Courses
 

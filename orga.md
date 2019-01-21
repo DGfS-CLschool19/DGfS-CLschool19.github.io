@@ -20,4 +20,5 @@
 
 ## Contact
 
-If you have any question, please contact us via [E-Mail](http://www.uni-stuttgart.de/cgi-bin/mail.cgi?fallschool-2019=ims.uni-stuttgart.de).
+If you have any questions regarding this event, 
+please contact us via [E-Mail](http://www.uni-stuttgart.de/cgi-bin/mail.cgi?fallschool-2019=ims.uni-stuttgart.de).
