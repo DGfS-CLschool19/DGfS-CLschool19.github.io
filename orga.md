@@ -3,18 +3,20 @@
 
 ## Local Organizer
 
-[Sebastian Padó](http://www.ims.uni-stuttgart.de/institut/mitarbeiter/pado/)
+[Sebastian Padó](http://www.ims.uni-stuttgart.de/institut/mitarbeiter/pado/index.en.html)
 
 
 ## Organization Committee
 
-[Gerhard Kremer](http://www.ims.uni-stuttgart.de/institut/mitarbeiter/gerhard/)
+[Gerhard Kremer](http://www.ims.uni-stuttgart.de/institut/mitarbeiter/gerhard/index.en.html)
 
-[Jonas Kuhn](http://www.ims.uni-stuttgart.de/institut/mitarbeiter/jonas/)
+[Jonas Kuhn](http://www.ims.uni-stuttgart.de/institut/mitarbeiter/jonas/index.en.html)
 
-[Nils Reiter](http://www.ims.uni-stuttgart.de/institut/mitarbeiter/reiterns/index.html)
+[Sybille Laderer](http://www.ims.uni-stuttgart.de/institut/mitarbeiter/laderer/index.en.html)
 
-[Sabine Schulte im Walde](http://www.ims.uni-stuttgart.de/institut/mitarbeiter/schulte/)
+[Nils Reiter](http://www.ims.uni-stuttgart.de/institut/mitarbeiter/reiterns/index.en.html)
+
+[Sabine Schulte im Walde](http://www.ims.uni-stuttgart.de/institut/mitarbeiter/schulte/index.en.html)
 
 
 
