@@ -5,8 +5,8 @@
 
 | | First week
 |---:|:---
-| 9:00-12:30 | Digital Humanities (Nils Reiter) 
-| 14:00-17:30 | Embeddings in NLP tasks (Eva-Maria Vecchi) 
+| 9:00-12:30 | Embeddings in NLP tasks (Eva-Maria Vecchi) 
+| 14:00-17:30 | Reflected Text Analysis beyond Linguistics (Nils Reiter) 
 |-
 | | **Second week**
 | 9:00-12:30 | Syntax (Meagan Fowlie) 
@@ -16,7 +16,7 @@
 
 ## Evening Lectures
 
-Fotis Jannidis: (tba.)
++ Wednesday, Sept. 11.: Fotis Jannidis: tba.
 
 
 ## Social Activities
