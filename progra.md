@@ -1,5 +1,5 @@
 
-# Program
+# (Preliminary) Program 
 
 ## Daily Schedule
 
@@ -12,11 +12,15 @@
 | 9:00-12:30 | Syntax (Meagan Fowlie) 
 | 14:00-17:30 | Computer Ethics in NLP (Thomas Arnold) 
 
+
 ## Courses
+
+(detailed descriptions to follow)
+
 
 ## Evening Lectures
 
-+ Wednesday, Sept. 11.: Fotis Jannidis: tba.
++ WED, Sept. 11.: Fotis Jannidis: (tba.)
 
 
 ## Social Activities
