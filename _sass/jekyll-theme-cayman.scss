@@ -52,6 +52,28 @@ body {
   }
 }
 
+
+// GK: current page on navigation bar
+ul#nav {
+    list-style-type: none;
+}
+
+ul#nav li {
+    display: inline-block;
+    + li {
+	margin-left: 1rem;
+    }
+}
+
+li.active .btn{
+    color: rgba(255, 255, 255, 0.8);
+    text-decoration: none;
+    background-color: rgba(255, 255, 255, 0.2);
+    border-color: rgba(255, 255, 255, 0.3);
+}
+// GK: end (current page on navigation bar)
+
+
 a {
   color: $body-link-color;
   text-decoration: none;

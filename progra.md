@@ -20,9 +20,11 @@
 
 ## Evening Lectures
 
-+ WED, Sept. 11.: Fotis Jannidis: (tba.)
++ WED, Sept. 11:   
+  Fotis Jannidis: (tba.)
 
 
 ## Social Activities
 
-+ FRI, Sept. 13, 17:30: reception and fair
++ FRI, Sept. 13, 17:30   
+  reception and fair
