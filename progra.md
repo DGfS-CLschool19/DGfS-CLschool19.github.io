@@ -5,20 +5,20 @@
 
 | | First week
 |---:|:---
-| 9:00-12:30 | [Embeddings in NLP](#embd-course) (Eva-Maria Vecchi) 
-| 14:00-17:30 | [Reflected Text Analysis beyond Linguistics](#refl-course) (Nils Reiter) 
+| 9:00-12:30 | [Embeddings in NLP](#embd-course) (Eva-Maria Vecchi, LMU Munich) 
+| 14:00-17:30 | [Reflected Text Analysis beyond Linguistics](#refl-course) (Nils Reiter, University of Stuttgart) 
 |-
 | | **Second week**
-| 9:00-12:30 | [Syntax](#syntax-course) (Meagan Fowlie) 
-| 14:00-17:30 | [Ethics in NLP](#ethics-course) (Thomas Arnold) 
+| 9:00-12:30 | [Syntax](#syntax-course) (Meagan Fowlie, Utrecht University) 
+| 14:00-17:30 | [Ethics in NLP](#ethics-course) (Thomas Arnold, TU Darmstadt) 
 
 
 ## Evening Lectures
 
 + WED, Sept. 11:   
-  [Fotis Jannidis](http://www.jannidis.de/): (tba.)
+  [Fotis Jannidis](http://www.jannidis.de/), Würzburg University: (tba.)
 
-+ [Katja Filippova](https://sites.google.com/site/katjaf/): (tba.)
++ [Katja Filippova](https://sites.google.com/site/katjaf/), Google Zurich: (tba.)
 
 
 ## Social Activities
