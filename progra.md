@@ -18,7 +18,8 @@
 + WED, Sept. 11:   
   [Fotis Jannidis](http://www.jannidis.de/), Würzburg University: (tba.)
 
-+ [Katja Filippova](https://sites.google.com/site/katjaf/), Google Zurich: (tba.)
++ TUE, Sept. 17:   
+  [Katja Filippova](https://sites.google.com/site/katjaf/), Google Zurich: (tba.)
 
 
 ## Social Activities
@@ -65,6 +66,16 @@ Core topics of this course:
 
 ### Syntax ([Meagan Fowlie](https://meaghanfowlie.com/)) {#syntax-course}
 
+How do people automatically figure out the structure of a sentence
+just by hearing it?
+
+What kinds of mistakes can people make in trying to figure out the
+structure, and why?
+
+This course will explore these questions from a formal perspective, by
+examining the mathematical properties of human language syntax,
+including the complexity of human language, and parsing algorithms for
+context free and mildly context sensitive language families.
 
 
 ### Reflected Text Analysis beyond Linguistics ([Nils Reiter](http://www.ims.uni-stuttgart.de/institut/mitarbeiter/reiterns/)) {#refl-course}
@@ -72,20 +83,20 @@ Core topics of this course:
 Computational linguistics tools, methods and ideas are
 increasingly used in other scientific areas. This class looks at
 digital humanities (DH) in particular, and discusses how and with
-what purpose CL methods can and should be applied within DH. The
-class covers first the creation of reference data. Reference data
-to be used in quantitative scenarios needs to be annotated
-coherently, which usually presumes an inter-subjective agreement
-on the annotation categories. We will look at ways of
-establishing annotation guidelines during the annotation
-process. Secondly, the created reference data is used in machine
-learning scenarios. This section contains discussion of
-several (basic) ML algorithms, and their use in a shared
-task-like scenario. We will also talk about ways of harvesting
-large, out-of-domain data sets (domain adaptation). The third
-section will be the evaluation and critically reflected
-interpretation of the results, and their integration into other
-research workflows from the humanities.
+what purpose CL methods can and should be applied within DH. 
+
+The class covers first the creation of reference data. Reference data
+to be used in quantitative scenarios needs to be annotated coherently,
+which usually presumes an inter-subjective agreement on the annotation
+categories. We will look at ways of establishing annotation guidelines
+during the annotation process. Secondly, the created reference data is
+used in machine learning scenarios. This section contains discussion
+of several (basic) ML algorithms, and their use in a shared task-like
+scenario. We will also talk about ways of harvesting large,
+out-of-domain data sets (domain adaptation). The third section will be
+the evaluation and critically reflected interpretation of the results,
+and their integration into other research workflows from the
+humanities.
 
 The class will be a mixture of lectures and exercises, and does
 not presuppose previous knowledge in computational
