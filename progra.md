@@ -1,16 +1,16 @@
 
-# Program (preliminary) 
+# Program
 
 ## Daily Schedule
 
 | | First week
 |---:|:---
-| 9:00-12:30 | [Embeddings in NLP](#embd-course) (Eva-Maria Vecchi, LMU Munich) 
+|  9:00-12:30 | [Embeddings in NLP](#embd-course) (Eva-Maria Vecchi, LMU Munich) 
 | 14:00-17:30 | [Reflected Text Analysis beyond Linguistics](#refl-course) (Nils Reiter, University of Stuttgart) 
 |-
 | | **Second week**
-| 9:00-12:30 | [Syntax](#syntax-course) (Meagan Fowlie, Utrecht University) 
-| 14:00-17:30 | [Ethics in NLP](#ethics-course) (Thomas Arnold, TU Darmstadt) 
+|  9:00-12:30 | [Ethics in NLP](#ethics-course) (Thomas Arnold, TU Darmstadt) 
+| 14:00-17:30 | [Syntax](#syntax-course) (Meagan Fowlie, Utrecht University) 
 
 
 ## Evening Lectures
