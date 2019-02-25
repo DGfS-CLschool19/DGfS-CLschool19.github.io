@@ -2,8 +2,8 @@
 
 ## Dates
 
-+ May 31: grant application deadline
-+ June 17: grant award confirmation 
++ May 31: Grant application deadline
++ June 17: Grant award confirmation 
 + July 7: **Early bird registration** deadline 
 + August 31: Registration closes
 
