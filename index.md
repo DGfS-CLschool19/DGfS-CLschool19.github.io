@@ -22,6 +22,8 @@ consists of ten 90-minutes lectures. All courses will be taught in
 English. Students can receive credits for the courses at their home
 university under the European Credit Transfer System (ECTS).
 
+<br>
+
 [![DGfS logo](assets/images/unilogo-ims_en.png){:height="100px"}](http://www.ims.uni-stuttgart.de/index.en.html)
 [![DGfS logo](assets/images/DGfS-logo_w_name.png){:align="right" height:="100px"}](http://dgfs.de/en)
 
