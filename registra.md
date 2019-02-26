@@ -10,10 +10,10 @@
 
 ## Grants
 
-We are awarding at least 5 grants of around 100--300 EUR to help
-participating in the fall school. The grant holders will be chosen on
+We are goint to award at least 5 grants of around 100--300 EUR to support
+participation in the fall school. The grant holders will be chosen on
 the basis of several criteria considering the need of support. You are
-very welcome to fill out our online web form, if you think you might
+very welcome to fill out our online web form if you think you might
 be eligible.
 
 (more details on how to apply tba.)

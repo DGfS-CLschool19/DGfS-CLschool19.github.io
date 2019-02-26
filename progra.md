@@ -6,7 +6,7 @@
 | | First week
 |---:|:---
 |  9:00-12:30 | [Embeddings in NLP](#embd-course) (Eva-Maria Vecchi, LMU Munich) 
-| 14:00-17:30 | [Reflected Text Analysis Beyond Linguistics](#refl-course) (Nils Reiter, University of Stuttgart) 
+| 14:00-17:30 | [Reflected Text Analysis beyond Linguistics](#refl-course) (Nils Reiter, University of Stuttgart) 
 |-
 | | **Second week**
 |  9:00-12:30 | [Ethics in NLP](#ethics-course) (Thomas Arnold, TU Darmstadt) 
