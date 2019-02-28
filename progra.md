@@ -25,7 +25,7 @@
 ## Social Activities
 
 + FRI, Sept. 13, 17:30   
-  reception and fair
+  reception (communal drink) and fair
 
 
 ## Course Abstracts

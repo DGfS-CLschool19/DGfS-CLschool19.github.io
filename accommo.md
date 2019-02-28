@@ -4,7 +4,7 @@
 ## Reserved rooms
 
 + [a+o Hostel Stuttgart City](https://www.aohostels.com/en/stuttgart/stuttgart-city/)   
-  single/double rooms w/ ensuite bathrooms   
+  single/double rooms w/ en suite bathrooms   
   (Sept 8-13)   
   reserved until July 15
 
@@ -13,6 +13,4 @@
   (Sept 13-20)   
   reserved until July 31
   
-## Further options
 
-(tba.)

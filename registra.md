@@ -10,7 +10,7 @@
 
 ## Grants
 
-We are goint to award at least 5 grants of around 100--300 EUR to support
+We are going to award at least 5 grants of around 100--300 EUR to support
 participation in the fall school. The grant holders will be chosen on
 the basis of several criteria considering the need of support. You are
 very welcome to fill out our online web form if you think you might
