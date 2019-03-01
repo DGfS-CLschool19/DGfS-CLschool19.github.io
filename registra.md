@@ -1,5 +1,7 @@
 # Registration
 
+For registering, please use our [registration web form (tba.)]().
+
 ## Dates
 
 + May 31: Grant application deadline
@@ -8,20 +10,19 @@
 + August 31: Registration closes
 
 
+## Participation Fees
+
++ Early Bird: (tba.)
++ Regular: (tba.)
+
+
 ## Grants
 
-We are going to award at least 5 grants of around 100--300 EUR to support
-participation in the fall school. The grant holders will be chosen on
-the basis of several criteria considering the need of support. You are
-very welcome to fill out our online web form if you think you might
-be eligible.
-
-(more details on how to apply tba.)
-
-
-## Regular registration
-
-For registering, please use our [registration web form (tba.)]().
-
+We are going to award at least 5 grants of around 100--300 EUR to
+support participation in the fall school. The grant holders will be
+chosen on the basis of several criteria considering the need of
+support. You are very welcome to fill out our
+[grant application web form (tba.)]() if you think you might be
+eligible.
 
 

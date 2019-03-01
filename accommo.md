@@ -1,7 +1,7 @@
 
 # Accommodation
 
-## Reserved rooms
+## Reserved Rooms
 
 + [a+o Hostel Stuttgart City](https://www.aohostels.com/en/stuttgart/stuttgart-city/)   
   single/double rooms w/ en suite bathrooms   

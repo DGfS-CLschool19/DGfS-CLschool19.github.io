@@ -16,16 +16,18 @@
 ## Evening Lectures
 
 + WED, Sept. 11:   
-  [Fotis Jannidis](http://www.jannidis.de/), Würzburg University: (tba.)
+  [Fotis Jannidis](http://www.jannidis.de/), Würzburg University:   
+  (tba.)
 
 + TUE, Sept. 17:   
-  [Katja Filippova](https://sites.google.com/site/katjaf/), Google Zurich: (tba.)
+  [Katja Filippova](https://sites.google.com/site/katjaf/), Google Zurich:   
+  (tba.)
 
 
 ## Social Activities
 
 + FRI, Sept. 13, 17:30   
-  reception (communal drink) and fair
+  Communal drink and fair
 
 
 ## Course Abstracts
