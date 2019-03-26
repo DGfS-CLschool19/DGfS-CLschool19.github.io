@@ -122,7 +122,7 @@ Core topics of this course:
   psychological counseling, interfaces for accessibility.
 
 
-### Syntactic Structures Can't Be Just Anything ([Meagan Fowlie](https://meaghanfowlie.com/)) {#syntax-course}
+### Syntactic Structures Can't Be Just Anything ([Meaghan Fowlie](https://meaghanfowlie.com/)) {#syntax-course}
 
 How do people automatically figure out the structure of a sentence
 just by hearing it?
