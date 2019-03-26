@@ -10,7 +10,7 @@
 |-
 | | **Second week**
 |  9:00-12:30 | [Ethics in NLP](#ethics-course) (Thomas Arnold, TU Darmstadt) 
-| 14:00-17:30 | [Syntactic Structures Can't Be Just Anything](#syntax-course) (Meagan Fowlie, Utrecht University) 
+| 14:00-17:30 | [Syntactic Structures Can't Be Just Anything](#syntax-course) (Meaghan Fowlie, Utrecht University) 
 
 
 ## Evening Lectures
