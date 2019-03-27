@@ -10,7 +10,7 @@
 |-
 | | **Second week**
 |  9:00-12:30 | [Ethics in NLP](#ethics-course) (Thomas Arnold, TU Darmstadt) 
-| 14:00-17:30 | [Syntactic Structures Can't Be Just Anything](#syntax-course) (Meagan Fowlie, Utrecht University) 
+| 14:00-17:30 | [Syntactic Structures Can't Be Just Anything](#syntax-course) (Meaghan Fowlie, Utrecht University) 
 
 
 ## Evening Lectures
@@ -122,7 +122,7 @@ Core topics of this course:
   psychological counseling, interfaces for accessibility.
 
 
-### Syntactic Structures Can't Be Just Anything ([Meagan Fowlie](https://meaghanfowlie.com/)) {#syntax-course}
+### Syntactic Structures Can't Be Just Anything ([Meaghan Fowlie](https://meaghanfowlie.com/)) {#syntax-course}
 
 How do people automatically figure out the structure of a sentence
 just by hearing it?
