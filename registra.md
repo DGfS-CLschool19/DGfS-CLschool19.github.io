@@ -12,8 +12,8 @@ For registering, please use our [registration web form (tba.)]().
 
 ## Participation Fees
 
-+ Early Bird: (tba.)
-+ Regular: (tba.)
++ Early Bird: 100 EUR (students: 50 EUR)
++ Regular: 150 EUR (students: 75 EUR)
 
 
 ## Grants

@@ -20,14 +20,14 @@
   (tba.)
 
 + TUE, Sept. 17:   
-  [Katja Filippova](https://sites.google.com/site/katjaf/), Google Zurich:   
+  [Katja Filippova](https://sites.google.com/site/katjaf/), Google:   
   (tba.)
 
 
 ## Social Activities
 
 + FRI, Sept. 13, 17:30   
-  Communal drink and fair
+  Communal drink and industry exchange forum
 
 
 ## Course Abstracts
