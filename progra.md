@@ -1,6 +1,9 @@
 
 # Program
 
+[Announcement Poster (PDF)](assets/images/CLschool19poster.pdf)
+
+
 ## Daily Schedule
 
 | | First week
@@ -28,6 +31,7 @@
 
 + FRI, Sept. 13, 17:30   
   Communal drink and industry exchange forum
++ Further activities tba.
 
 
 ## Course Abstracts

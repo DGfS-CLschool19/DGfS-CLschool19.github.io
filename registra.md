@@ -2,18 +2,8 @@
 
 For registering, please use our [registration web form (tba.)]().
 
-## Dates
-
-+ May 31: Grant application deadline
-+ June 17: Grant award confirmation 
-+ July 7: **Early bird registration** deadline 
-+ August 31: Registration closes
-
-
-## Participation Fees
-
-+ Early Bird: 100 EUR (students: 50 EUR)
-+ Regular: 150 EUR (students: 75 EUR)
++ Early Bird Fee: 50 EUR (non-students: 100 EUR)
++ Regular Fee: 75 EUR (non-students: 150 EUR)
 
 
 ## Grants
@@ -25,4 +15,11 @@ support. You are very welcome to fill out our
 [grant application web form (tba.)]() if you think you might be
 eligible.
 
+
+## Dates
+
++ May 31: **Grant application** deadline
++ June 10: Grant award confirmation 
++ July 7: **Early bird registration** deadline 
++ August 31: Registration closes
 
