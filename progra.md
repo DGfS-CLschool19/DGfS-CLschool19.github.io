@@ -30,7 +30,7 @@
 ## Social Activities
 
 + FRI, Sept. 13, 17:30   
-  Communal drink and industry exchange forum
+  Reception with industry exchange forum
 + Further activities tba.
 
 
