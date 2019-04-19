@@ -24,6 +24,11 @@ university under the European Credit Transfer System (ECTS).
 
 <br>
 
-[![DGfS logo](assets/images/unilogo-ims_en.png){:height="100px"}](http://www.ims.uni-stuttgart.de/index.en.html)
-[![DGfS logo](assets/images/dgfs.jpg){:align="right" height="100px"}](http://dgfs.de/en)
-
+<div markdown="1" style="display:flex; justify-content:space-between; flex-wrap:wrap">
+<div markdown="1">
+[![DGfS logo](assets/images/unilogo-ims_en.png){:width="360px" height="auto"}](http://www.ims.uni-stuttgart.de/index.en.html)
+</div>
+<div markdown="1">
+[![DGfS logo](assets/images/dgfs.jpg){:width="215px" height="auto"}](http://dgfs.de/en)
+</div>
+</div>
