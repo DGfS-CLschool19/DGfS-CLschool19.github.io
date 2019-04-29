@@ -1,6 +1,11 @@
 
 # Accommodation
 
+There is a limited number of reserved rooms for the fall school -- see
+below. Please book yourself, stating that you would like to book from
+the reserved capacities. Alternatively, you are free to
+choose a different place for your stay, of course.
+
 ## Reserved Rooms
 
 + [**a+o Hostel Stuttgart City**](https://www.aohostels.com/en/stuttgart/stuttgart-city/)   
