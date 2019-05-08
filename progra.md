@@ -23,9 +23,7 @@
   (tba.)
 
 + TUE, Sept. 17:   
-  [Katja Filippova](https://sites.google.com/site/katjaf/), Google:   
-  (tba.)
-
+  (tbd).
 
 ## Social Activities
 
