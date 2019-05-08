@@ -19,7 +19,7 @@ if you think you might be eligible.
 ## Dates
 
 + May 31: **Grant application** deadline
-+ June 10: Grant award confirmation 
++ June 10: Grant award notification 
 + July 7: **Early bird registration** deadline 
 + August 31: Registration closes
 
