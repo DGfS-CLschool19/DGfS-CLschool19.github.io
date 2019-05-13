@@ -23,7 +23,7 @@
   **Computational Linguistics — the big neighbour seen from the perspective of Computational Literary Studies**
 
 + TUE, Sept. 17:   
-  [Ulrike Padó](https://nlpado.de/~ulrike/), University of Applied Sciences, Stuttgart:
+  [Ulrike Padó](https://nlpado.de/~ulrike/), University of Applied Sciences, Stuttgart:   
   **NLP for grading student answers**
 
 ## Social Activities
