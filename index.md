@@ -32,3 +32,17 @@ university under the European Credit Transfer System (ECTS).
 [![DGfS logo](assets/images/dgfs.jpg){:width="215px" height="auto"}](http://dgfs.de/en)
 </div>
 </div>
+
+**The Fall School is supported by**
+
+<div id="sponsors">
+<a href="https://www.ibm.com"><img src="assets/images/Logo_IBM.png" alt="IBM" width="200px"/></a>
+<a href="https://www.vector.com"><img src="assets/images/Logo_Vector.png" alt="Vector" width="200px"/></a>
+
+<a href="https://www.bosch.com"><img src="assets/images/Logo_Bosch.png" alt="Bosch" width="200px"/></a>
+
+<a href="https://www.semalytix.com"><img src="assets/images/Logo_semalytix.svg" alt="Semalytix" width="200px"/></a>
+<a href="https://www.sony.com"><img src="assets/images/Logo_Sony.png" alt="Sony" width="200px"/></a>
+<a href="https://vico-research.com"><img src="assets/images/Logo_vico.png" alt="Vico" width="200px"/></a>
+
+</div>

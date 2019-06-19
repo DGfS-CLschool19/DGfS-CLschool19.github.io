@@ -384,3 +384,15 @@ a {
 .site-footer-credits {
   color: $blockquote-text-color;
 }
+
+div#sponsors {
+	text-align:center;
+	a {
+		display:inline-block;
+		margin:100px;
+		text-align:center;
+	}
+	a:nth-child(even) {
+	}
+	
+}
