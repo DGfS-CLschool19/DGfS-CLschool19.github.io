@@ -385,14 +385,19 @@ a {
   color: $blockquote-text-color;
 }
 
-div#sponsors {
-	text-align:center;
-	a {
-		display:inline-block;
-		margin:100px;
-		text-align:center;
-	}
-	a:nth-child(even) {
-	}
+div#logos {
+    //text-align:center;
+    display:flex;
+    justify-content: space-between; 
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    a {
+	margin: 10px 0;
+	//margin:auto;
+	//text-align:center;
+    }
+    a:nth-child(even) {
+    }
 	
 }
