@@ -56,13 +56,20 @@ body {
 // GK: current page on navigation bar
 ul#nav {
     list-style-type: none;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+    text-align:center;
 }
 
 ul#nav li {
-    display: inline-block;
-    + li {
-	margin-left: 1rem;
-    }
+    //display: flex;
+    margin: .4rem;
+//    + li {
+//	margin-left: 1rem;
+//    }
 }
 
 li.active .btn {
@@ -359,8 +366,8 @@ a {
 }
 
 .site-footer {
-  padding-top: 2rem;
-  margin-top: 2rem;
+  padding-top: 1rem;
+  margin-top: 1.5rem;
   border-top: solid 1px $hr-border-color;
 
   @include large {
@@ -388,7 +395,7 @@ a {
 div#logos {
     //text-align:center;
     display:flex;
-    justify-content: space-between; 
+    justify-content: space-around; 
     align-items: center;
     flex-wrap: wrap;
     margin: 0 auto;
