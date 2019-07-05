@@ -17,7 +17,7 @@ to broaden their knowledge of techniques and methods used in natural
 language processing, including computational linguistics fields not
 traditionally taught in standard degree programs.
 
-This is the 10th Fall School offering four courses, each of which
+This is the 10th fall school offering four courses, each of which
 consists of ten 90-minutes lectures. All courses will be taught in
 English. Students can receive credits for the courses at their home
 university under the European Credit Transfer System (ECTS).
@@ -33,7 +33,7 @@ university under the European Credit Transfer System (ECTS).
 </div>
 </div>
 
-**This Fall School is supported by:**
+**This fall school is supported by:**
 
 <div id="logos">
 <a href="https://www.ibm.com"><img src="assets/images/Logo_IBM.png" alt="IBM" width="150px"/></a>
