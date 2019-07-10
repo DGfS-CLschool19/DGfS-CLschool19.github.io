@@ -366,8 +366,8 @@ a {
 }
 
 .site-footer {
-  padding-top: 1rem;
-  margin-top: 1.5rem;
+  padding-top: .5rem;
+  margin-top: 1.3rem;
   border-top: solid 1px $hr-border-color;
 
   @include large {
@@ -400,8 +400,8 @@ div#logos {
     flex-wrap: wrap;
     margin: 0 auto;
     a {
-	margin: 10px 0;
-	//margin:auto;
+	//margin: 10px 0;
+	margin: 2.5%;
 	//text-align:center;
     }
     a:nth-child(even) {
