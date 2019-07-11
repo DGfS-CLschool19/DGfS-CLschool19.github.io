@@ -13,7 +13,7 @@ support participation in the fall school. The grant holders will be
 chosen on the basis of several criteria considering the need of
 support. You are very welcome to fill out our
 [grant application web form](https://www.ims.uni-stuttgart.de/events/dgfs-clschool19/grantapplication.html) 
-if you think you might be eligible.
+until May 31st if you think you might be eligible.
 
 
 ## Dates
