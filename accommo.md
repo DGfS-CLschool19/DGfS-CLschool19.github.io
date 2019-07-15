@@ -17,6 +17,6 @@ choose a different place for your stay, of course.
 + [**International Student Hotel**](https://www.studierendenhotel-stuttgart.de/en/)   
   single rooms w/ shared bathroom   
   (Sept. 13--20)   
-  **reserved until July 31**
+  **unfortunately, our allotment's rooms are no longer available**
   
 
