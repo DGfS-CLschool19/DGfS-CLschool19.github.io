@@ -18,19 +18,17 @@
 
 ## Evening Lectures
 
-+ WED, Sept. 11:   
-  [Fotis Jannidis](http://www.jannidis.de/), Würzburg University:   
-  **Computational Linguistics — the big neighbour seen from the perspective of Computational Literary Studies**
+| --- | :---
+| WED, Sept. 11  18:00 | [Fotis Jannidis](http://www.jannidis.de/), Würzburg University: <br>  **Computational Linguistics — the big neighbour seen from the perspective of Computational Literary Studies**
+| TUE, Sept. 17  18:00 | [Ulrike Padó](https://nlpado.de/~ulrike/), University of Applied Sciences, Stuttgart: <br>  **NLP for grading student answers**
 
-+ TUE, Sept. 17:   
-  [Ulrike Padó](https://nlpado.de/~ulrike/), University of Applied Sciences, Stuttgart:   
-  **NLP for grading student answers**
 
 ## Social Activities
 
-+ FRI, Sept. 13, 17:30   
-  Reception with industry exchange forum
-+ Further activities tba.
+|-----|-----:
+| THU, Sept. 12 <br> 15:00 | Excursion to [Deutsches Literaturarchiv Marbach](https://www.dla-marbach.de/en) <br> with special tour of the archive
+| FRI, Sept. 13 <br> 17:30 | Reception with industry exchange forum <br>(w/ representatives from: IBM, Vector, Bosch, Semalytix, Sony, Vico)
+| SAT, Sept. 14 <br> 10:30 | Wine tasting at [winery Heid](http://www.weingut-heid.de) and easy walk through vineyards
 
 
 ## Course Abstracts
