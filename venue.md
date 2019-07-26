@@ -20,10 +20,14 @@ In order to travel in and around Stuttgart, see the [VVS public transit associat
 [StuttCard PLUS](https://www.stuttgart-tourist.de/en/o-stuttcard-experience-stuttgart) offers free transport and free admissions to or savings in many leisure facilities.
 
 
-## Organizing secretariat's opening hours 
+## Organizing secretariat
 
-During the fall school, the Organizing Secretariat will be open
-on-site as follows:
+For any questions that might come up during the fall school, please contact our Organizing Secretariat staff members on the second floor:  
+
+[Sabine Schulte im Walde](https://www.ims.uni-stuttgart.de/institut/mitarbeiter/schulte) (room 02.005) or  
+[Sybille Laderer](https://www.ims.uni-stuttgart.de/institut/mitarbeiter/laderer) (room 02.003).
+
+The Organizing Secretariat will be open on-site as follows:
 
 |:----|:----
 | | 9:00--12:00 AM | 1:00--4:00 PM
@@ -33,14 +37,17 @@ FRI, Sept. 13 |  &#9989; | &#9989;
 MON, Sept. 16 <br>-- FRI, Sept. 20 | &#9989; | &#9989;
 
 
-## University canteen chip cards
+## University canteen and cafeteria chip cards
 
 We can provide you with chip cards for buying meals at a reduced price (10% reduction) -- valid only for external students.
 
 You can get the chip cards at the registration desks (**deposit: 10 Euros**). Remember to return them in the Organizing Secretariat at the end of your stay.
 
-The chip cards can be loaded either with cash or via EC card
-+ in the canteen ---only cash--- (Pfaffenwaldring 45)
-+ at the Infopoint in the canteen  ---only EC--- (Pfaffenwaldring 45)
-+ in the cafeteria Contrast (Pfaffenwaldring 7-9) 
-+ and cafeteria Denkpause (Pfaffenwaldring 45)
+The chip cards can be loaded 
++ with cash
+  + in the canteen (Pfaffenwaldring 45)
++ with EC card
+  + at the Infopoint in the canteen (Pfaffenwaldring 45)
++ with cash / EC card
+  + in the cafeteria Denkpause (Pfaffenwaldring 45)
+  + in the cafeteria Contrast (Pfaffenwaldring 7-9) 
