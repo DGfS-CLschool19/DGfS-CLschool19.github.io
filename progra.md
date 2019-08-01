@@ -26,7 +26,7 @@
 ## Social Activities
 
 |-----|-----:
-| THU, Sept. 12 <br> 15:00 | Excursion to [Deutsches Literaturarchiv Marbach](https://www.dla-marbach.de/en) <br> with special tour of the archive
+| THU, Sept. 12 <br> 13:00 | Excursion to [Deutsches Literaturarchiv Marbach](https://www.dla-marbach.de/en) <br> with special tour of the archive (start at IMS)
 | FRI, Sept. 13 <br> 17:30 | Reception with industry exchange forum <br>(w/ representatives from: IBM, Vector, Bosch, Semalytix, Sony, Vico)
 | SAT, Sept. 14 <br> 10:30 | Wine tasting at [winery Heid](http://www.weingut-heid.de) and easy walk through vineyards
 
