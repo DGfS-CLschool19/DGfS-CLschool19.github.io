@@ -29,12 +29,12 @@ For any questions that might come up during the fall school, please contact our 
 
 The Organizing Secretariat will be open on-site as follows:
 
-|:----|:----
-| | 9:00--12:00 AM | 1:00--4:00 PM
-MON, Sept. 9 <br>-- WED, Sept. 11 | &#9989; | &#9989;
+| | 9:00--12:00 AM | 1:00--4:00 PM |
+|:---|:----:|:----:|
+Sept. 9--11 <br>(MON--WED) | &#9989; | &#9989;
 THU, Sept. 12 | &#9989; | &#10060;
 FRI, Sept. 13 |  &#9989; | &#9989;
-MON, Sept. 16 <br>-- FRI, Sept. 20 | &#9989; | &#9989;
+Sept. 16--20<br> (MON--FRI) | &#9989; | &#9989;
 
 
 ## University canteen and cafeteria chip cards
