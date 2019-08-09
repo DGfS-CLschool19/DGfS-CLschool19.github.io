@@ -45,8 +45,8 @@ IMS has a computer pool, and most courses will use this pool for
 practical sessions. In order to participate, you need to fill in all
 fields that are not pre-filled in our
 [computer account request form](assets/IMS-Rechenerlaubnis-en.pdf) so
-that we can create a guest account. Please fill in the PDF directly
-and send it electronically to
+that we can create a guest account. Please fill in the PDF directly 
+(no signature necessary, for now) and send it electronically to
 [the Fall School technical support team](mailto:fallschool-2019-support@ims.uni-stuttgart.de).
 
 Beware that your PDF reader may not show nor print pre-filled entries
