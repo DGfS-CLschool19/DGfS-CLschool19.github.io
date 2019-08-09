@@ -37,6 +37,39 @@ FRI, Sept. 13 |  &#9989; | &#9989;
 Sept. 16--20<br> (MON--FRI) | &#9989; | &#9989;
 
 
+## Computer and internet access
+
+### Computer access 
+
+IMS has a computer pool, and most courses will use this pool for
+practical sessions. In order to participate, you need to fill in all
+fields that are not pre-filled in our
+[computer account request form](assets/IMS-Rechenerlaubnis-en.pdf) so
+that we can create a guest account. Please fill in the PDF directly
+and send it electronically to
+[the Fall School technical support team](mailto:fallschool-2019-support@ims.uni-stuttgart.de).
+
+Beware that your PDF reader may not show nor print pre-filled entries
+unless you click on the field, so please make sure you filled in all
+necessary fields. We might provide an updated version later.
+
+DEADLINE is **August 31st, 2019**. If you send in your forms
+late, computer access may be delayed.
+
+Note also that you will need to present the ID/passport that
+you specify in the form when you arrive at IMS for the account
+to be activated.
+
+### Internet access
+
+IMS has eduroam wireless, so if you already have an eduroam
+account, you can directly access the internet through your laptop
+or phone. If you do not, please explicitly request eduroam access
+in the e-mail with the computer access form and make sure that
+the form contains your name and email address.
+
+
+
 ## University canteen and cafeteria chip cards
 
 We can provide you with chip cards for buying meals at a reduced price (10% reduction) -- valid only for external students.
