@@ -1,7 +1,7 @@
 
 # Program
 
-[Announcement Poster (PDF)](assets/images/CLschool19poster.pdf)
+[Announcement Poster (PDF)](assets/CLschool19poster.pdf)
 
 
 ## Daily Schedule
