@@ -49,10 +49,6 @@ that we can create a guest account. Please fill in the PDF directly
 (no signature necessary, for now) and send it electronically to
 [the Fall School technical support team](mailto:fallschool-2019-support@ims.uni-stuttgart.de).
 
-Beware that your PDF reader may not show nor print pre-filled entries
-unless you click on the field, so please make sure you filled in all
-necessary fields. We might provide an updated version later.
-
 DEADLINE is **August 31st, 2019**. If you send in your forms
 late, computer access may be delayed.
 
