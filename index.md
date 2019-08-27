@@ -38,7 +38,7 @@ university under the European Credit Transfer System (ECTS).
 <div id="logos">
 <a href="https://www.ibm.com"><img src="assets/images/Logo_IBM.png" alt="IBM" width="150px"/></a>
 <a href="https://www.vector.com"><img src="assets/images/Logo_Vector.png" alt="Vector" width="150px"/></a>
-<a href="https://www.bosch.com"><img src="assets/images/Logo_Bosch.png" alt="Bosch" width="150px"/></a>
+<a href="https://www.bosch.com/research/"><img src="assets/images/Logo_Bosch.png" alt="Bosch" width="150px"/></a>
 </div>
 
 <div id="logos">
