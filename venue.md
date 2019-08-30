@@ -10,7 +10,9 @@ Pfaffenwaldring 5 b
 D-70569 Stuttgart   
 
 
-For travel directions, please see the [Contact page of the IMS](http://www.ims.uni-stuttgart.de/institut/kontakt/index.en.html).
+For travel directions, please see the [Contact page of the IMS](http://www.ims.uni-stuttgart.de/institut/kontakt/index.en.html). 
+
+Arriving at the university's campus, look for our [Fall School sign posts](assets/signpost-ex.pdf) to find your way to the venue.
 
 
 ## Public transport 
@@ -20,9 +22,18 @@ In order to travel in and around Stuttgart, see the [VVS public transit associat
 [StuttCard PLUS](https://www.stuttgart-tourist.de/en/o-stuttcard-experience-stuttgart) offers free transport and free admissions to or savings in many leisure facilities.
 
 
+## Welcome desk
+On **MO, Sept. 9, beginning at 8:00**, you can 
++ pick up the welcome bag (including your name badge),
++ acquire a university canteen and cafeteria chip card, and 
++ sign the computer account request form (see below). 
+
+The welcome desk will be located near the main entrance, **in front of the seminar room** where the courses take place.
+
+
 ## Organizing secretariat
 
-For any questions that might come up during the fall school, please contact our Organizing Secretariat staff members on the second floor:  
+For any questions that might come up during the fall school, please contact our Organizing Secretariat staff members on the 2<sup>nd</sup> floor:  
 
 [Sabine Schulte im Walde](https://www.ims.uni-stuttgart.de/institut/mitarbeiter/schulte) (room 02.005) or  
 [Sybille Laderer](https://www.ims.uni-stuttgart.de/institut/mitarbeiter/laderer) (room 02.003).
@@ -49,11 +60,11 @@ that we can create a guest account. Please fill in the PDF directly
 (no signature necessary, for now) and send it electronically to
 [the Fall School technical support team](mailto:fallschool-2019-support@ims.uni-stuttgart.de).
 
-DEADLINE is **August 31st, 2019**. If you send in your forms
+DEADLINE is August 31st, 2019. If you send in your forms
 late, computer access may be delayed.
 
-Note also that you will need to present the ID/passport that
-you specify in the form when you arrive at IMS for the account
+Note also that you will need to **present the ID/passport that
+you specify in the form when you arrive at IMS** for the account
 to be activated.
 
 ### Internet access
@@ -70,7 +81,7 @@ the form contains your name and email address.
 
 We can provide you with chip cards for buying meals at a reduced price (10% reduction) -- valid only for external students.
 
-You can get the chip cards at the registration desks (**deposit: 10 Euros**). Remember to return them in the Organizing Secretariat at the end of your stay.
+You can get the chip cards at the welcome/registration desk (**deposit: 10 Euros**). Remember to return them in the Organizing Secretariat at the end of your stay.
 
 The chip cards can be loaded 
 + with cash
