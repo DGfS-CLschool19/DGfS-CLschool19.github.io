@@ -23,7 +23,7 @@ In order to travel in and around Stuttgart, see the [VVS public transit associat
 
 
 ## Welcome desk
-On **MO, Sept. 9, beginning at 8:00**, you can 
+On **MO, Sept. 9, beginning at 8:00 AM**, you can 
 + pick up the welcome bag (including your name badge),
 + acquire a university canteen and cafeteria chip card, and 
 + sign the computer account request form (see below). 
