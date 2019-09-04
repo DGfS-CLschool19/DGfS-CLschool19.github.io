@@ -91,3 +91,53 @@ The chip cards can be loaded
 + with cash / EC card
   + in the cafeteria Denkpause (Pfaffenwaldring 45)
   + in the cafeteria Contrast (Pfaffenwaldring 7-9) 
+
+
+
+## Activitiy tips
+
+### Stuttgart for tourists
+
++ [General Information](https://www.stuttgart-tourist.de/en)
+
++ [Stuttgart Walking Tour in 60 minutes for 8 euros](https://book.stuttgart-tourist.de/stuttgart-en/offer/detail/FIT00020070408344031?tt=1bgligbh590br6p2qf79gppth1)
+
++ [Stuttgart Citytour](https://www.stuttgart-tourist.de/en/stuttgart-citytour)
+
++ [Stuttgart Incentives](https://www.stuttgart-tourist.de/en/incentives)
+
++ [Stuttgart's best museums](https://www.stuttgart.de/item/show/507497/1)
+
+
+### Events in the Stuttgart region
+
++ [Lift Magazine (best overview of events and locations but only in German)](https://www.lift-online.de)
+
++ [Stuttgart Events (official overview from city portal)](https://www.stuttgart-city.de/veranstaltungen)
+
++ [Stuttgart weekly flea-market (Saturday 8-16 on Karlsplatz)](http://www.flohmarkt-karlsplatz.de/home/)
+
++ Stuttgart large autumn flea-market (September 15, 11-18 in the whole city center)
+
++ [Stuttgart Wine Village (until September 8)](https://www.stuttgart-tourist.de/en/e-stuttgart-wine-village)
+
++ [Ludwigsburg Pumpkin Festival](http://www.kuerbisausstellung-ludwigsburg.de/en)
+
++ [Long Night of Hotel Bars (September 14)](https://www.facebook.com/Die-lange-Nacht-der-Hotelbars-Stuttgart-284406538640795/)
+
++ [Stuttgart Beer Festival (starting September 27)](https://www.stuttgart-tourist.de/en/e-stuttgart-beer-festival-2019)
+
+
+### Miscalleneous recommendations
+
++ [Staatsgalerie](https://www.staatsgalerie.de/en.html)
+
++ [Weißenhof-Siedlung](https://en.wikipedia.org/wiki/Weissenhof_Estate)
+
++ [Teehaus (Café/Bar with view)](http://teehaus-stuttgart.de)
+
++ [Karlshöhe (ditto)](https://www.stuttgart-tourist.de/a-karlshoehe-stuttgart)
+
++ [STEREO Karaoke Bar](https://www.stereokaraokebar.de)
+
++ [Pedal 4 Progress](https://www.facebook.com/events/1958823354419482/)
