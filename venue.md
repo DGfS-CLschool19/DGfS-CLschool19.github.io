@@ -128,7 +128,7 @@ The chip cards can be loaded
 + [Stuttgart Beer Festival (starting September 27)](https://www.stuttgart-tourist.de/en/e-stuttgart-beer-festival-2019)
 
 
-### Miscalleneous recommendations
+### Miscellaneous recommendations
 
 + [Staatsgalerie](https://www.staatsgalerie.de/en.html)
 
