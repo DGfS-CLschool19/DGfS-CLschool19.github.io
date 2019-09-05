@@ -1,8 +1,17 @@
 
 # Venue
 
+| **Contents** |
+|[Location](#loc)|
+|[Public transport](#transp)|
+|[Welcome desk](#welc)|
+|[Organizing secretariat](#secre)|
+|[Computer and internet access](#comp)|
+|[University canteen and cafeteria chip cards](#chips)|
+|[Activitiy tips](#activ)|
+ 
 
-## Location
+## Location {#loc}
 
 Universität Stuttgart   
 Institut für Maschinelle Sprachverarbeitung (IMS)   
@@ -15,14 +24,14 @@ For travel directions, please see the [Contact page of the IMS](http://www.ims.u
 Arriving at the university's campus, look for our [Fall School sign posts](assets/signpost-ex.pdf) to find your way to the venue.
 
 
-## Public transport 
+## Public transport {#transp} 
 
 In order to travel in and around Stuttgart, see the [VVS public transit association](http://en.vvs.de) website for connections and timetables. You might be interested in getting a [3-day-ticket](http://www.vvs.de/tickets/sondertickets/3-tageticket-20182019).
 
 [StuttCard PLUS](https://www.stuttgart-tourist.de/en/o-stuttcard-experience-stuttgart) offers free transport and free admissions to or savings in many leisure facilities.
 
 
-## Welcome desk
+## Welcome desk {#welc}
 On **MO, Sept. 9, beginning at 8:00 AM**, you can 
 + pick up the welcome bag (including your name badge),
 + acquire a university canteen and cafeteria chip card, and 
@@ -31,7 +40,7 @@ On **MO, Sept. 9, beginning at 8:00 AM**, you can
 The welcome desk will be located near the main entrance, **in front of the seminar room** where the courses take place.
 
 
-## Organizing secretariat
+## Organizing secretariat {#secre}
 
 For any questions that might come up during the fall school, please contact our Organizing Secretariat staff members on the 2<sup>nd</sup> floor:  
 
@@ -48,7 +57,7 @@ FRI, Sept. 13 |  &#9989; | &#9989;
 Sept. 16--20<br> (MON--FRI) | &#9989; | &#9989;
 
 
-## Computer and internet access
+## Computer and internet access {#comp}
 
 ### Computer access 
 
@@ -77,7 +86,7 @@ the form contains your name and email address.
 
 
 
-## University canteen and cafeteria chip cards
+## University canteen and cafeteria chip cards {#chips}
 
 We can provide you with chip cards for buying meals at a reduced price (10% reduction) -- valid only for external students.
 
@@ -94,7 +103,7 @@ The chip cards can be loaded
 
 
 
-## Activitiy tips
+## Activitiy tips {#activ}
 
 ### Stuttgart for tourists
 
