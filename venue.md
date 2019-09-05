@@ -44,8 +44,8 @@ The welcome desk will be located near the main entrance, **in front of the semin
 
 For any questions that might come up during the fall school, please contact our Organizing Secretariat staff members on the 2<sup>nd</sup> floor:  
 
-[Sabine Schulte im Walde](https://www.ims.uni-stuttgart.de/institut/mitarbeiter/schulte) (room 02.005) or  
-[Sybille Laderer](https://www.ims.uni-stuttgart.de/institut/mitarbeiter/laderer) (room 02.003).
+[Sybille Laderer](https://www.ims.uni-stuttgart.de/institut/mitarbeiter/laderer) (room 02.003) or  
+[Sabine Schulte im Walde](https://www.ims.uni-stuttgart.de/institut/mitarbeiter/schulte) (room 02.005).
 
 The Organizing Secretariat will be open on-site as follows:
 
