@@ -1,9 +1,8 @@
-
+{::options toc_levels="2"}
 # Venue
 
 ### Contents
 {:.no_toc}
-{::options toc_levels="2"}
 {:markdown-toc: style="list-style-type:none;"}
 
 *  this list item sets the toc list mode
