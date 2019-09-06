@@ -1,6 +1,6 @@
+{::options toc_levels="2"}
 
 # Venue
-{:.no_toc}
 
 ### Contents
 {:.no_toc}
