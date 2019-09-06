@@ -2,7 +2,8 @@
 # Venue
 {:.no_toc}
 
-# Contents
+### Contents
+{:.no_toc}
 
 * this unordered list item sets the toc list mode
 {:toc}
