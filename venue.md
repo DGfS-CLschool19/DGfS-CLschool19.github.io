@@ -68,6 +68,7 @@ Sept. 16--20<br> (MON--FRI) | &#9989; | &#9989;
 ## Computer and internet access {#comp}
 
 ### Computer access 
+{:.no_toc}
 
 IMS has a computer pool, and most courses will use this pool for
 practical sessions. In order to participate, you need to fill in all
@@ -85,6 +86,7 @@ you specify in the form when you arrive at IMS** for the account
 to be activated.
 
 ### Internet access
+{:.no_toc}
 
 IMS has eduroam wireless, so if you already have an eduroam
 account, you can directly access the internet through your laptop
@@ -114,6 +116,7 @@ The chip cards can be loaded
 ## Activitiy tips {#activ}
 
 ### Stuttgart for tourists
+{:.no_toc}
 
 + [General Information](https://www.stuttgart-tourist.de/en)
 
@@ -127,6 +130,7 @@ The chip cards can be loaded
 
 
 ### Events in the Stuttgart region
+{:.no_toc}
 
 + [Lift Magazine (best overview of events and locations but only in German)](https://www.lift-online.de)
 
@@ -146,6 +150,7 @@ The chip cards can be loaded
 
 
 ### Miscellaneous recommendations
+{:.no_toc}
 
 + [Staatsgalerie](https://www.staatsgalerie.de/en.html)
 
