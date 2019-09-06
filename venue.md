@@ -8,6 +8,7 @@
 * this unordered list item sets the toc list mode
 {:toc}
 
+{::comment}
 | **Contents** |
 |[Location](#loc)|
 |[Public transport](#transp)|
@@ -16,7 +17,7 @@
 |[Computer and internet access](#comp)|
 |[University canteen and cafeteria chip cards](#chips)|
 |[Activitiy tips](#activ)|
- 
+{:/comment} 
 
 ## Location {#loc}
 
