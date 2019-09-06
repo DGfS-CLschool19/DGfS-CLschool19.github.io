@@ -3,12 +3,12 @@
 
 ### Contents
 {:.no_toc}
-{:markdown-toc: style="list-style-type:none;"}
 
 *  this list item sets the toc list mode
 {:toc}
 
 {::comment}
+{:markdown-toc: style="list-style-type:none;"}
 | **Contents** |
 |[Location](#loc)|
 |[Public transport](#transp)|
