@@ -1,4 +1,4 @@
-{::options toc_levels="2"}
+{::options toc_levels="2" /}
 # Venue
 
 ### Contents
