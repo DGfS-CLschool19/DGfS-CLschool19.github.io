@@ -5,7 +5,7 @@
 {:.no_toc}
 {::options toc_levels="2"}
 
-* this unordered list item sets the toc list mode
+* {style="list-style-type:none;"} this list item sets the toc list mode
 {:toc}
 
 {::comment}
