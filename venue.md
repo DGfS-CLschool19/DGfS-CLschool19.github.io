@@ -5,10 +5,10 @@
 {:.no_toc}
 
 *  this list item sets the toc list mode
-{:toc}
+{:toc style="list-style-type:none;"}
 
 {::comment}
-{:markdown-toc: style="list-style-type:none;"}
+{:markdown-toc:  /}
 | **Contents** |
 |[Location](#loc)|
 |[Public transport](#transp)|
