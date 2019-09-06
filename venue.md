@@ -4,7 +4,7 @@
 ### Contents
 {:.no_toc}
 {::options toc_levels="2"}
-{::style="list-style-type:none;"}
+{:markdown-toc: style="list-style-type:none;"}
 
 *  this list item sets the toc list mode
 {:toc}
