@@ -1,7 +1,10 @@
 
 # Venue
+{:.no_toc}
 
-* this unordered lsit item sets the toc list mode
+# Contents
+
+* this unordered list item sets the toc list mode
 {:toc}
 
 | **Contents** |
