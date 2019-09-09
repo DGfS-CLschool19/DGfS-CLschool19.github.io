@@ -37,13 +37,14 @@ university under the European Credit Transfer System (ECTS).
 
 <div id="logos">
 <a href="https://www.ibm.com"><img src="assets/images/Logo_IBM.png" alt="IBM" width="150px"/></a>
-<a href="https://www.vector.com"><img src="assets/images/Logo_Vector.png" alt="Vector" width="150px"/></a>
-<a href="https://www.bosch.com/research/"><img src="assets/images/Logo_Bosch.png" alt="Bosch" width="150px"/></a>
+<a href="https://www.vector.com"><img src="assets/images/Logo_Vector.png" alt="Vector" width="275px"/></a>
+<a href="https://www.bosch.com/research/"><img src="assets/images/Logo_Bosch.png" alt="Bosch" width="190px"/></a>
 </div>
 
 <div id="logos">
 <a href="https://www.semalytix.com"><img src="assets/images/Logo_semalytix.svg" alt="Semalytix" width="150px"/></a>
-<a href="https://www.sony.com"><img src="assets/images/Logo_Sony.png" alt="Sony" width="150px"/></a>
-<a href="https://vico-research.com"><img src="assets/images/Logo_vico.png" alt="Vico" width="150px"/></a>
+<a href="https://www.sony.com"><img src="assets/images/Logo_Sony.png" alt="Sony" width="120px"/></a>
+<a href="https://vico-research.com"><img src="assets/images/Logo_vico.png" alt="Vico" width="90px"/></a>
+<a href="https://www4.ax-semantics.com/about-us/"><img src="assets/images/Logo_AXsemantics.png" alt="AX Semantics" width="175px"/></a>
 </div>
 
