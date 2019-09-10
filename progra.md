@@ -88,6 +88,8 @@ linguistics. The class is also open to students from
 the (digital) humanities with an interest in reflected text
 analytics.
 
+[Course page](https://nilsreiter.de/refl2019)
+
 
 ### Ethics in Natural Language Processing ([Thomas Arnold](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/staff_ukp/detailseite_mitarbeiter_1_53376.en.jsp)) {#ethics-course}
 
