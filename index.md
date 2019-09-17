@@ -33,6 +33,11 @@ university under the European Credit Transfer System (ECTS).
 </div>
 </div>
 
+<div id="logos">
+<a><img src="assets/images/fallschoolers.JPG" alt="Fall School 2019 photo" width="700px"/></a>
+</div>
+
+
 **This fall school is supported by:**
 
 <div id="logos">
