@@ -80,9 +80,11 @@ that we can create a guest account. Please fill in the PDF directly
 DEADLINE is August 31st, 2019. If you send in your forms
 late, computer access may be delayed.
 
-Note also that you will need to **present the ID/passport that
-you specify in the form when you arrive at IMS** for the account
+Note also that you will need to present the ID/passport that
+you specify in the form when you arrive at IMS for the account
 to be activated.
+
+By the end of the Fall School remember to **save your data** that are stored on IMS machines and you would like to keep **onto your personal device** -- your IMS account and data will be deleted by beginning of October.
 
 ### Internet access
 
